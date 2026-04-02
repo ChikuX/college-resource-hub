@@ -101,3 +101,10 @@ User → Telegram Bot → Moderation → Database → Website → Users
 ## 🤝 Contribution
 
 Open to improvements and scaling ideas.
+
+---
+
+## 👨‍💻 Author
+> Developed by Ankit  
+> GitHub: [Click Here](https://github.com/ChikuX)    
+> LinkedIn: [Click Here](https://www.linkedin.com/in/ankit1706/)

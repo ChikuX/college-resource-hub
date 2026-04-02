@@ -1,6 +1,7 @@
 # 🚀 LibraryHub Ecosystem | college-resource-hub
 
 ---
+![Website](src/campusvault.xyz_.png)
 
 A full-stack system for collecting, verifying, and distributing academic notes and PYQs using automation + moderation.
 
